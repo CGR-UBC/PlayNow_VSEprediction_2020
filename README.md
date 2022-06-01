@@ -1,6 +1,6 @@
 # PlayNow_VSEprediction_2020
 Code for Finkenwirth et al (2020 IGS) VSE prediction paper <br>
-Link to script: [insert link to manuscript]
+Link to script: https://www.tandfonline.com/doi/abs/10.1080/14459795.2020.1832132?journalCode=rigs20 
 
 # Contents
 
